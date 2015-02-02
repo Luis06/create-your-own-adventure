@@ -8,3 +8,5 @@ Você:
 [Não é um programador e decide enviar uma revisão do aplicativo para o desenvolvedor?](revisa/revisar.md)
 
 [Git o quê?](git/oque.md)
+
+Estou a tentar fazer alterações!
