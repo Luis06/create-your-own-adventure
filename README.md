@@ -28,6 +28,7 @@ reaches on any path of the story should not have any options.  For an example, s
 from an early version of the story.  Here are some examples of  appropriate changes:
 
 * Add a sentence or two to an existing "page" (file) of the story.
+I just added!!
 * Add a new option to an existing choice point, and link that option to an
   existing "page".
 * Add a new option to an existing choice point, create a new "page" for that
